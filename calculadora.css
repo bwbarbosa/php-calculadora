@@ -1,0 +1,39 @@
+body {
+    width: auto;
+    background-color: rgb(179, 250, 226);
+    font: 20pt arial;
+}
+
+header {
+    width: 350px;
+    height: 350px;
+    color: black;
+    text-align: center;
+    background-color: aqua;
+    margin: auto;
+    padding-top: 10px;
+}
+
+section {
+    background-color: antiquewhite;
+    border-radius: 5px;
+    padding: 20px;
+    width: 250px;
+    margin: auto;
+}
+
+input {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+footer {
+    color: brown;
+    text-align: center;
+    font-size : 10pt;
+    font-size: italic;
+    margin: 50px;
+}
